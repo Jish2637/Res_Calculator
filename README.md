@@ -1,6 +1,9 @@
-v1.0
+Ultrawide is supported!
+---------------------------
 
 Calculates a resolution based on a given percentage.
+
+I use it to get extra performance out of games, calculates a resolution that can be used with ultrawide aspect or any other aspect ratio
 
 Includes Help button with processes for Nvidia/AMD
 
